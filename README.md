@@ -38,7 +38,7 @@ The application follows a RAG architecture:
     ```
 
 2.  **Open the notebook:**
-    Open the `RAG_Q_A_Bot (1).ipynb` file in Jupyter Notebook or JupyterLab.
+    Open the `RAG_Q_A_Bot.ipynb` file in Jupyter Notebook or JupyterLab.
 
 ### Configuration and Usage
 
